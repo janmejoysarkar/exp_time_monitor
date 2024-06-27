@@ -3,9 +3,8 @@
 
 
 # CMD_EXPT and MEAS_EXP plots generator
-- 2k 2k images to be used to show both off limb and on limb structures simultaneously.
-- The project is to make PR images for SUIT.
-
+- Created to monitor monthly status of Commanded Exposure Time (CMD_EXPT) and Measured Exposure Time (MEAS_EXPT) in SUIT images.
+- The data is fetched from xlsx files containing packet and header information.
 
 Created by Janmejoy Sarkar @ [SUIT](https://suit.iucaa.in)LAB \
 Initiated on Jun 26 2024
